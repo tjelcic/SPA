@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1635965199 source:c:\users\tjelcic\desktop\tea\spa\vjezbaa 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stl.h"
+
+1635965971 c:\users\tjelcic\desktop\tea\spa\vjezbaa 2\stl.h
+	<stdio.h>
+	<stdlib.h>
+
+1635965767 source:c:\users\tjelcic\desktop\tea\spa\vjezbaa 2\stl.c
+	<stdio.h>
+	<stdlib.h>
+	"stl.h"
+
+1636115539 source:c:\users\tjelcic\desktop\tea\spa\vjezba2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stl.h"
+
+1635965971 c:\users\tjelcic\desktop\tea\spa\vjezba2\stl.h
+	<stdio.h>
+	<stdlib.h>
+
+1636101486 source:c:\users\tjelcic\desktop\tea\spa\vjezba2\stl.c
+	<stdio.h>
+	<stdlib.h>
+	"stl.h"
+
