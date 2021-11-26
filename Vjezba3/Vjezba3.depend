@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637256188 source:c:\users\tjelcic\desktop\tea\spa\vjezba3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
