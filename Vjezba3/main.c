@@ -138,7 +138,6 @@ int main()
     int *niz1;
     int *niz2;
     int *niz3;
-    int n=10;
 
     for (int i = 100000; i <= 3000000; i += 300000)
     {
