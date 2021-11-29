@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637953368 source:c:\users\tjelcic\desktop\tea\spa\vjezba4\main.c
+	<stdio.h>
+	<ctype.h>
+	"dictionary.h"
+
+1637930036 c:\users\tjelcic\desktop\tea\spa\vjezba4\dictionary.h
+
+1637953031 source:c:\users\tjelcic\desktop\tea\spa\vjezba4\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1637930036 source:c:\users\tjelcic\desktop\tea\spa\vjezba4\dictionary.h
+
