@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1642690212 source:c:\users\tjelcic\desktop\tea\spa\vjezba7\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"hash.h"
+
+1642691024 c:\users\tjelcic\desktop\tea\spa\vjezba7\hash.h
+
+1642691026 source:c:\users\tjelcic\desktop\tea\spa\vjezba7\hash.c
+	"hash.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+

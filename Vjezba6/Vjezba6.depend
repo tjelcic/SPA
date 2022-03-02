@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642172686 source:c:\users\tjelcic\desktop\tea\spa\vjezba6\main.c
+	<stdio.h>
+	<ctype.h>
+	"bstree.h"
+
+1642172985 c:\users\tjelcic\desktop\tea\spa\vjezba6\bstree.h
+	<string.h>
+
+1642172908 source:c:\users\tjelcic\desktop\tea\spa\vjezba6\bstree.c
+	<stdio.h>
+	<malloc.h>
+	"bstree.h"
+
